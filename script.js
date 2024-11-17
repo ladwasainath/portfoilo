@@ -33,7 +33,7 @@ ScrollReveal().reveal('.home-content p, .aboutcontent', {
 });
 
 const typed = new Typed('.multiple-text', {
-    strings: [" a Student.", "a Web App Developer.", "an Android App Developer."],
+    strings: [" a Student.", "a Web App Developer."],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
